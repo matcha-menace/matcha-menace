@@ -1,6 +1,6 @@
-Steve Hu
-@NYU Game Center
+# Steve Hu
+## @NYU Game Center
 
--twitter: @stevtigerh
+- twitter: @stevtigerh
 
--insta: @stevey.huu
+- insta: @stevey.huu
