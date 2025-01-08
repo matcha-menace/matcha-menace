@@ -1,5 +1,4 @@
 # Evetttt Huu 🌕
 
-- **website**: [stevehuu.com](https://stevehuu.com/)
-- **twitter**: [@master_huhu](https://twitter.com/master_huhu)
+- What do you call an able-bodied bear?
 - **discord**: master_huhu
